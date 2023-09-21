@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @melissarrebeca
+- 📝 I'm an undergraduate student in Computer Engineering at PUC Minas
 - ✨ I’m interested in backend development, data science and machine learning
 - 💻 I’m currently learning Java, SQL and Python
 - 📫 How to reach me: melissa.rebeca.mr@gmail.com
