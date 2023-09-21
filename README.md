@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melissarrebeca
-- ✨ I’m interested in software engineering and development
-- 💻 I’m currently learning Java
+- ✨ I’m interested in backend development, data science and machine learning
+- 💻 I’m currently learning Java, SQL and Python
 - 📫 How to reach me: melissa.rebeca.mr@gmail.com
 
 <!---
