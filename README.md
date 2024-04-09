@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melissarrebeca
 - 📝 I'm an undergraduate student in Computer Engineering at PUC Minas
 - ✨ I’m interested in machine learning, data science and backend development
-- 💻 I’m currently on an undergraduate research project, using neural networks
+- 💻 I’m currently on an undergraduate research project, using neural networks. You can see more about [here](https://github.com/melissarrebeca/FIP-DGA-Classification).
 - 📫 How to reach me: melissa.rebeca.mr@gmail.com
 
 <!---
