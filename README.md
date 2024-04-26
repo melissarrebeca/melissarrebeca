@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@melissarrebeca](https://www.instagram.com/melissarrebeca/).
 - 📝 I'm an undergraduate student in [Computer Engineering at PUC Minas](https://www.pucminas.br/unidade/coracao-eucaristico/ensino/graduacao/Paginas/Engenharia-da-Computacao.aspx).
-- ✨ My interests are: machine learning, data science, backend and frontend development.
+- ✨ My interests are: machine learning, data science and backend development.
 - 💻 I’m currently at an undergraduate research project, using neural networks. You can see more about [here](https://github.com/melissarrebeca/FIP-DGA-Classification).
 - 📫 How to reach me: melissa.rebeca.mr@gmail.com
 
